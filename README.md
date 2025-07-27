@@ -31,10 +31,5 @@ A lightweight and secure C# console application that generates strong, customiza
 - .NET SDK installed (v6.0 or later)
 - Visual Studio / Visual Studio Code / Any C# IDE
 
-### Steps to Run
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/SecurePass-Generator.git
-   cd SecurePass-Generator
 
